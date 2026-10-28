@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Local environment and credentials
+/.aws/
+/.codex/
+/.agents/
+.env
+.env.*
+!.env.example
+auth.json
+*.log
+
+# Installation-specific executable paths and ownership marker
+/gnome-extension/*/config.json
+/gnome-extension/*/.codex-quota-install.json
+
+# Internal design and execution notes (not needed to run the project)
+/docs/superpowers/

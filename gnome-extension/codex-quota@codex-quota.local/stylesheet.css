@@ -1,0 +1,18 @@
+.codex-quota-panel-label { font-variant-numeric: tabular-nums; }
+.codex-quota-menu { min-width: 320px; max-width: 380px; }
+.codex-quota-heading { font-size: 1.12em; font-weight: bold; }
+.codex-quota-muted { opacity: 0.7; font-size: 0.9em; }
+.codex-quota-subtitle { padding-top: 4px; }
+.codex-quota-scroll { max-height: 400px; }
+.codex-quota-content { spacing: 18px; padding: 8px 0; }
+.codex-quota-group { spacing: 12px; }
+.codex-quota-group-name { font-weight: bold; }
+.codex-quota-window { spacing: 6px; }
+.codex-quota-window-heading { spacing: 18px; }
+.codex-quota-percent { font-weight: bold; font-variant-numeric: tabular-nums; }
+.codex-quota-bar { height: 10px; -barlevel-height: 6px; }
+.codex-quota-low { color: #e6a23c; }
+.codex-quota-bar.codex-quota-low { -barlevel-active-background-color: #e6a23c; }
+.codex-quota-unknown { opacity: 0.35; }
+.codex-quota-error { color: #e6a23c; }
+.codex-quota-footer { spacing: 5px; }

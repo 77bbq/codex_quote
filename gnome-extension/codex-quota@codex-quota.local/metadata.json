@@ -1,0 +1,7 @@
+{
+  "uuid": "codex-quota@codex-quota.local",
+  "name": "Codex 额度",
+  "description": "在顶部栏查看 Codex 剩余额度、额度窗口和重置时间。",
+  "shell-version": ["3.36"],
+  "version": 1
+}
